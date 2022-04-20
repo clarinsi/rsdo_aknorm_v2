@@ -1,4 +1,4 @@
-# Akustična normalizacija govornih posnetkov (verzija 2)
+# Akustična normalizacija govornih posnetkov (ver. 2)
 
 V tem repozitoriju so zbrani različni postopki akustične normalizacije govornih posnetkov, kot so [NRSG](#postopek-NRSG), [DFL](#postopek-DFL), [SEGAN](#postopek-SEGAN). 
 
