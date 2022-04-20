@@ -47,7 +47,7 @@ pip install pysoundfile
 pip install onnxruntime
 ```
 
-Za izvedbo razšumljanja zvočnih posnetkov je potrebno najprej izvesti klon repozitorija DNS-Challenge in se premakniti v direktorij DNS-Challenge/NSNet2-baseline. Razšumljanje izvedemo z ukazom
+Za izvedbo razšumljanja zvočnih posnetkov je potrebno najprej izvesti klon repozitorija DNS-Challenge in se premakniti v direktorij DNS-Challenge/NSNet2-baseline v katerem se nahaja skripta run_nsnet2.py. Razšumljanje izvedemo z ukazom
 ```
 python run_nsnet2.py  --input vhodni_dir_ali_wav --output izhodni_dir_ali_wav
 ```
